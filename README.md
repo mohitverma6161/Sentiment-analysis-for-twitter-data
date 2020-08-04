@@ -7,5 +7,3 @@ positive, weakly negative, neutral, positive, negative, strongly positive
 and strongly negative.
 
 A pie chart will also appear for data Visualisation.
-
- 
